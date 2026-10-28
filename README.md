@@ -1,6 +1,5 @@
 # Simple Order Book (C++17)
 
-![CI](https://github.com/<your-username>/orderbook-cpp/actions/workflows/ci.yml/badge.svg)
 
 A small, dependency-free **limit order book and matching engine** written in modern C++.
 It supports limit orders, market orders and cancellation, and matches orders using
